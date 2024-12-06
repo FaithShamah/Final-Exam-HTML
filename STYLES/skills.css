@@ -1,0 +1,26 @@
+body{
+    background-color: lightblue;
+}
+
+.links{
+    text-align: center;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    margin-left: 800px;
+    margin-bottom: 50px;
+    font-size: large;
+    left: 50px;
+    padding: 20px;
+    background-color: blue;
+
+}
+
+ul,li{
+    color: red;
+    font-size: large;
+}
+
+h1{
+    color: black;
+}

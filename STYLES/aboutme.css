@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+
+
+.links{
+    text-align: center;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    margin-left: 800px;
+    margin-bottom: 50px;
+    font-size: large;
+    left: 50px;
+    padding: 20px;
+    background-color: blue;
+
+}
+
+
+.image {
+    width: 18cm;
+    height: 18cm;
+    margin-top: -100px;
+}
+
+.me{
+    position: absolute;
+    top: 100px;
+    left: 780px;
+    color: white;
+    align-items: flex-end;
+    letter-spacing: 1px;
+    line-height: 0.5cm;
+
+}
+
